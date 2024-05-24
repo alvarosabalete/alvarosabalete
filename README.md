@@ -33,8 +33,8 @@ Iré compartiendo algunos de los proyectos en los que he estado trabajando y que
 
 ## 📫 Contacto
 
-- **Email:** [tucorreo@example.com](mailto:alvarosabalete@gmail.com)
-- **LinkedIn:** [linkedin.com/in/tuperfil](https://www.linkedin.com/in/alvaro-sabalete/)
+- **Email:** [alvarosabalete@gmail.com](mailto:alvarosabalete@gmail.com)
+- **LinkedIn:** [linkedin.com/in/alvaro-sabalete](https://www.linkedin.com/in/alvaro-sabalete/)
 
 ## 📚 Intereses
 
