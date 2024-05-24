@@ -50,7 +50,11 @@ I will be sharing some of the projects I have been working on that showcase my s
 ---
 
 Thank you for visiting my profile! Feel free to explore my future projects and don't hesitate to contact me for any inquiries or collaborations.
+
+
 ---
+
+
 # 👋 Hola, soy Alvaro Sabalete
 
 Bienvenido a mi perfil de GitHub. Soy un apasionado del mundo **Data Science** y **Data Analytics** con 3 años de experiencia en el campo. Además, he completado un máster en **Data Science, Big Data & Business Analytics** en la Universidad Complutense de Madrid (UCM).
