@@ -29,7 +29,7 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado del mundo **Data Science** y
 
 ## 📈 Proyectos
 
-Aún no he subido proyectos a mi perfil, pero estoy trabajando en ello. Pronto iré compartiendo algunos de los proyectos en los que he estado trabajando y que muestran mis habilidades en Data Analytics y Data Science.
+Iré compartiendo algunos de los proyectos en los que he estado trabajando y que muestran mis habilidades en Data Analytics y Data Science.
 
 ## 📫 Contacto
 
