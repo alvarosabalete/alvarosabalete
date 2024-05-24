@@ -1,6 +1,6 @@
 # 👋 Hola, soy Alvaro Sabalete
 
-Bienvenido a mi perfil de GitHub. Soy un apasionado del mundo ** Data Science** y **Big Analytics** con 3 años de experiencia en el campo. Además, he completado un máster en **Data Science, Big Data & Business Analytics** en la Universidad Complutense de Madrid (UCM).
+Bienvenido a mi perfil de GitHub. Soy un apasionado del mundo **Data Science** y **Big Analytics** con 3 años de experiencia en el campo. Además, he completado un máster en **Data Science, Big Data & Business Analytics** en la Universidad Complutense de Madrid (UCM).
 
 ## 🚀 Sobre mí
 
